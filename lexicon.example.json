@@ -1,0 +1,5 @@
+{
+  "rule-money-laundering": ["洗钱", "代开发票"],
+  "rule-scam": ["刷单", "兼职日结"],
+  "rule-contact-evasion": ["加微信", "vx"]
+}
